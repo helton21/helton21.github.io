@@ -1,0 +1,62 @@
+#rodape {
+	width: 80%;
+	height: 50px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#conteudo {
+	width: 99%;
+	height: 500px;
+	margin: 0 auto;
+	
+
+}
+
+#site {
+	background-image: url(animais2.png);
+}
+
+
+#cad_cliente {
+
+	width: 50%;
+	height: 400px;
+	margin: 0 auto;
+
+}
+
+#cad_produto {
+	
+	width: 50%;
+	height: 400px;
+	margin: 0 auto;
+
+}
+
+#inicio {
+	width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+
+
+
+#menu {
+
+	width: 99%;
+	height: 40px;
+	margin: 0 auto;
+	color: white;
+	
+
+}
+
+#rodape {
+	text-align: center;
+}
